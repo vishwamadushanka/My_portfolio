@@ -133,7 +133,7 @@ section{
 }
 .section__ppic{
   display: flex;  
-  height: 400px;
+  height: 600px;
   width: 600px;
   margin: auto 0;
 }
